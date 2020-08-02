@@ -3,7 +3,7 @@ import sys
 
 RANDOM_SEED = 0
 STAR_COUNT = 8
-LAYER_COUNT = 3
+LAYER_COUNT = 4
 MIN = -128
 MAX = 127
 
